@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Page-1" id="e56a1550-8fbb-45ad-956c-1786394a9013">
-    <mxGraphModel dx="3000" dy="1591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1750" dy="928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -516,7 +516,7 @@
         <mxCell id="qAAjHdVntC_g-5h1axJs-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="qAAjHdVntC_g-5h1axJs-34" target="qAAjHdVntC_g-5h1axJs-135" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-ARrweazNg5HF71tEFUK-10" value="PersonaCocina" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
+        <mxCell id="-ARrweazNg5HF71tEFUK-10" value="PersonaCocina" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fillColor=#CC6600;" parent="1" vertex="1">
           <mxGeometry x="480" y="250" width="290" height="125" as="geometry" />
         </mxCell>
         <mxCell id="-ARrweazNg5HF71tEFUK-11" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="-ARrweazNg5HF71tEFUK-10" vertex="1">
@@ -556,7 +556,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-ARrweazNg5HF71tEFUK-23" value="" style="whiteSpace=wrap;html=1;fillColor=#66FF66;startSize=30;" parent="-ARrweazNg5HF71tEFUK-15" vertex="1">
-          <mxGeometry x="290" height="45" as="geometry">
+          <mxGeometry x="290" width="NaN" height="45" as="geometry">
             <mxRectangle width="NaN" height="45" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -566,7 +566,7 @@
         <mxCell id="-ARrweazNg5HF71tEFUK-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qAAjHdVntC_g-5h1axJs-88" target="-ARrweazNg5HF71tEFUK-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-ARrweazNg5HF71tEFUK-56" value="PersonaReciclaje" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
+        <mxCell id="-ARrweazNg5HF71tEFUK-56" value="PersonaReciclaje" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fillColor=#B266FF;" parent="1" vertex="1">
           <mxGeometry x="480" y="1070" width="290" height="110" as="geometry" />
         </mxCell>
         <mxCell id="-ARrweazNg5HF71tEFUK-57" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="-ARrweazNg5HF71tEFUK-56" vertex="1">
@@ -611,7 +611,7 @@
         <mxCell id="-ARrweazNg5HF71tEFUK-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qAAjHdVntC_g-5h1axJs-165" target="-ARrweazNg5HF71tEFUK-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-ARrweazNg5HF71tEFUK-72" value="PersonaTransporte" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
+        <mxCell id="-ARrweazNg5HF71tEFUK-72" value="PersonaTransporte" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fillColor=#CC0066;" parent="1" vertex="1">
           <mxGeometry x="480" y="1320" width="290" height="110" as="geometry" />
         </mxCell>
         <mxCell id="-ARrweazNg5HF71tEFUK-73" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="-ARrweazNg5HF71tEFUK-72" vertex="1">
@@ -650,7 +650,7 @@
             <mxRectangle width="80" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-ARrweazNg5HF71tEFUK-81" value="Transporte" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
+        <mxCell id="-ARrweazNg5HF71tEFUK-81" value="Transporte" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fillColor=#FF66B3;" parent="1" vertex="1">
           <mxGeometry x="900" y="1320" width="270" height="230" as="geometry" />
         </mxCell>
         <mxCell id="-ARrweazNg5HF71tEFUK-82" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="-ARrweazNg5HF71tEFUK-81" vertex="1">

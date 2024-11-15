@@ -532,7 +532,7 @@
             <mxRectangle width="134" height="35" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MyTEUIifzUADu46f9sv2-6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="MyTEUIifzUADu46f9sv2-3">
+        <mxCell id="MyTEUIifzUADu46f9sv2-6" value="INT" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="MyTEUIifzUADu46f9sv2-3">
           <mxGeometry x="210" width="80" height="35" as="geometry">
             <mxRectangle width="80" height="35" as="alternateBounds" />
           </mxGeometry>
@@ -663,7 +663,7 @@
             <mxRectangle width="150" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MyTEUIifzUADu46f9sv2-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="MyTEUIifzUADu46f9sv2-11">
+        <mxCell id="MyTEUIifzUADu46f9sv2-14" value="INT" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="MyTEUIifzUADu46f9sv2-11">
           <mxGeometry x="210" width="80" height="40" as="geometry">
             <mxRectangle width="80" height="40" as="alternateBounds" />
           </mxGeometry>
